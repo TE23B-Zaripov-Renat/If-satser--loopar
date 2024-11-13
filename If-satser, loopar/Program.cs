@@ -39,11 +39,11 @@
 
 // Console.ReadLine();
 // -----------------------------------------------------
-int i = 0;
-        while (i < 32)
-        {
-            Console.WriteLine("Hello, World");
-            i++;
-        }
-        Console.ReadLine();
-
+// int i = 0;
+//         while (i < 32)
+//         {
+//             Console.WriteLine("Hello, World");
+//             i++;
+//         }
+//         Console.ReadLine();
+// -----------------------------------------------------

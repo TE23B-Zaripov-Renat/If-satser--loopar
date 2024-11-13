@@ -12,3 +12,4 @@ C:\Users\renat.zaripov\Desktop\Programmering1\If-satser, loopar\If-satser, loopa
 C:\Users\renat.zaripov\Desktop\Programmering1\If-satser, loopar\If-satser, loopar\obj\Debug\net8.0\If-satser, loopar.pdb
 C:\Users\renat.zaripov\Desktop\Programmering1\If-satser, loopar\If-satser, loopar\obj\Debug\net8.0\If-satser, loopar.genruntimeconfig.cache
 C:\Users\renat.zaripov\Desktop\Programmering1\If-satser, loopar\If-satser, loopar\obj\Debug\net8.0\ref\If-satser, loopar.dll
+C:\Users\renat.zaripov\Desktop\Programmering1\If-satser, loopar\If-satser, loopar\obj\Debug\net8.0\If-satser, loopar.sourcelink.json
